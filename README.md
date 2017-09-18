@@ -1,2 +1,4 @@
-# django-auth-example-master
-来自追梦人物的博客
+# django用户系统
+
+实现用户登录，注册等功能
+
